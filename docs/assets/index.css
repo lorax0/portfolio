@@ -1,0 +1,56 @@
+.content-section{
+    text-align: center;
+    margin: 0 30%;
+}
+
+.section-head{
+    font-size: 30px;
+}
+
+.content-section-black{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px 0 20px 0;
+}
+
+.body{
+    margin: 0 0;
+}
+
+.technology-img{
+    width: 80px;
+    margin: 10px 20px;
+}
+
+.technology-list{
+    list-style-type: none;
+    justify-content: center;
+    display: flex;
+    margin: auto auto;
+}
+
+.section-text{
+    font-size: 20px;
+}
+
+.section-hypertext{
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+}
+
+.projects-list{
+    padding: 0;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.projects-head{
+    font-size: 23px;
+    text-align: center;
+}
+
+.projects-image{
+    float: left;
+}
